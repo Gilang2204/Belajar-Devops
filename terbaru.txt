@@ -1,3 +1,10 @@
-nama Gilang
-umur 21 Tahun
-haiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+DEPLOY JAR
+
+cd wsdl
+ls
+cd 
+ls
+ps ax | grep java
+kill ip 
+ps ax | grep java
+tail -f 
